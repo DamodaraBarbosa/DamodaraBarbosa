@@ -17,6 +17,10 @@ Tenho 26 anos de idade, sou bacharel em química formado pela Universidade Feder
 - ⚡ Fun fact: no meu tempo livre adoro jogar video game, sendo o Xbox minha plataforma de preferência (GT: MrDamodara), apesar de também poder ser encontrado de vez em quando no lado azul da força (ID: MrDamodara)!
 
 ### Contatos:
+<div>
+<a href = "mailto:damodarabarbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/damodara-barbosa-0450b8244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 <div>
