@@ -13,7 +13,7 @@ Tenho 26 anos de idade, sou bacharel em química formado pela Universidade Feder
 - 🔭 Atualmente trabalho como professor de ciências e química para turmas do ensino fundamental.
 - 🌱 Tenho me dedicado a linguagem de programação Python com foco no aprendizado das Ciências de dados.
 - 👯 Busco realizar projetos relevantes e que gerem algum impacto positivo.
-- 🤔 Qualquer crítica será bem vinda. Espero contribuir e de alguma forma com a comunidade dev, e aprender com quem sabe mais que eu!
+- 🤔 Qualquer crítica será bem vinda. Espero contribuir de alguma forma com a comunidade dev, e aprender com quem sabe mais que eu!
 - ⚡ Fun fact: no meu tempo livre adoro jogar video game, sendo o Xbox minha plataforma de preferência (GT: MrDamodara), apesar de também poder ser encontrado de vez em quando no lado azul da força (ID: MrDamodara)!
 
 ### Contatos:
