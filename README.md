@@ -7,10 +7,15 @@ Seja bem vindo ao meu perfil no GitHub.
 * Entusiasta de tecnologia e de games
 
 ### Tecnologia e ferramentas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 
-### Estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60"/>
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Beautiful Soup
+- Selenium
+- Machine learning
 
 
 ### Contatos:
