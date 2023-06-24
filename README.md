@@ -1,8 +1,10 @@
-## Olá, devs! Meu nome é Damodara Barbosa 👋
-E seja bem vindo ao meu perfil no GitHub.
+## Damodara Barbosa
+Seja bem vindo ao meu perfil no GitHub.
 
-
-Tenho 26 anos de idade, sou bacharel em química formado pela Universidade Federal do Ceará. Desde sempre um entusiasta de tecnologia, inovação, games etc. Porém, desde março de 2022 tenho me dedicado a aprender sobre programação, minha mais recente paixão. Atualmente busco uma transição de carreira para área da tecnologia.
+* 27 anos
+* Bacharel em Química pela Universidade Federal do Ceará
+* Professor de Química e Data Science
+* Entusiasta de tecnologia e de games
 
 ### Tecnologia e ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
@@ -10,11 +12,6 @@ Tenho 26 anos de idade, sou bacharel em química formado pela Universidade Feder
 ### Estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height="60"/>
 
-- 🔭 Atualmente trabalho como professor de ciências e química para turmas do ensino fundamental.
-- 🌱 Tenho me dedicado a linguagem de programação Python com foco no aprendizado das Ciências de dados.
-- 👯 Busco realizar projetos relevantes e que gerem algum impacto positivo.
-- 🤔 Qualquer crítica será bem vinda. Espero contribuir de alguma forma com a comunidade dev, e aprender com quem sabe mais que eu!
-- ⚡ Fun fact: no meu tempo livre adoro jogar video game, sendo o Xbox minha plataforma de preferência (GT: MrDamodara), apesar de também poder ser encontrado de vez em quando no lado azul da força (ID: MrDamodara)!
 
 ### Contatos:
 <div>
