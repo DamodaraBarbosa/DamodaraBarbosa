@@ -1,10 +1,10 @@
 ## Damodara Barbosa
 Seja bem vindo ao meu perfil no GitHub.
 
-* 27 anos
-* Bacharel em Química pela Universidade Federal do Ceará
-* Professor de Química e Data Science
-* Entusiasta de tecnologia e de games
+* 27 anos.
+* Bacharel em Química pela Universidade Federal do Ceará.
+* Professor de Química e de Data Science na Ada Tech.
+* Entusiasta de tecnologia e de games.
 
 ### Tecnologia e ferramentas:
 
